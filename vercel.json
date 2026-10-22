@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://apps.microsoft.com/detail/9N8FWDL6NF60",
+      "permanent": false
+    }
+  ]
+}
